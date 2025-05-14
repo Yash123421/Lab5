@@ -20,7 +20,7 @@ Follow these steps to clone and run the project on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YeshwanthBommagani/Lab5
+   git clone https://github.com/Yash123421/Lab5
    cd Lab5
    cd helloworld_django
    ```
